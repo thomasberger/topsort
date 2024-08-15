@@ -1,3 +1,3 @@
-module github.com/stevenle/topsort/v2
+module github.com/thomasberger/topsort
 
 go 1.18
